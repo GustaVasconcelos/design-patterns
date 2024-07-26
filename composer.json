@@ -1,0 +1,15 @@
+{
+    "name": "gustavo/design-patterns",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gustavo\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gustavasconcelos"
+        }
+    ],
+    "require": {}
+}
