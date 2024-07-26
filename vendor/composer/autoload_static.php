@@ -16,7 +16,7 @@ class ComposerStaticInit823c43056db7e73ec565c69a133b441c
     public static $prefixDirsPsr4 = array (
         'Gustavo\\DesignPatterns\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/Src',
         ),
     );
 
